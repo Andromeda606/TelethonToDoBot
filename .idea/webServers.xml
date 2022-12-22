@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6648b4db-b2d0-43dc-a9b7-efe63cf849b6" name="omer">
+        <fileTransfer rootFolder="/home/andromeda/dev/telegram" accessType="SFTP" host="130.61.213.65" port="22" sshConfigId="02932147-31a3-41eb-867c-76bf7a481ad6" sshConfig="Ömer SSH" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
