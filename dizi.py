@@ -6,8 +6,8 @@ import smtplib, ssl
 
 smtp_server = "smtp.gmail.com"
 port = 587
-sender_email = "ramoisoo.50@gmail.com"
-password = "jrnwcwyyrwaoovpo"
+sender_email = ""
+password = ""
 fmt = 'From: {}\r\nTo: {}\r\nSubject: {}\r\n{}'
 
 context = ssl.create_default_context()
