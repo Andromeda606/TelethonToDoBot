@@ -1,18 +1,18 @@
-## Telethon Yapılacaklar Projesi
-Telethon ile hazırlanmış yapılacaklar projesi. Python üzerinden çalışan bu botun amacı verilen excel dosyasını işleyerek yapılacaklar listesi oluşturmaktır.
+## Telethon To Do Project
+To-do project prepared with Telethon. The purpose of this bot, which works on Python, is to create a to-do list by processing the given excel file.
 
-## Docker ile kurulum
+## Installation with Docker
 ````shell
 docker build --tag telethon .
 ````
 
-## Normal kurulum
+## Manual setup
 
 ```shell
 pip install -r req.txt
 ```
 
-## Başlatma
+## Run
 ```shell
 python telegram.py
 ```
